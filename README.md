@@ -1,0 +1,2 @@
+# meshoo
+static-website
